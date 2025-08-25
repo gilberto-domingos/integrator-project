@@ -68,3 +68,5 @@ export class StudentList implements OnInit {
     this.loadPrints();
   }
 }
+
+// https://fullstack-6-40oe.onrender.com/swagger/index.html
